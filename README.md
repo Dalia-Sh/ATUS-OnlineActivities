@@ -62,6 +62,6 @@ The last part is similar to Wallsten's approach. I use, however, ATUS years 2011
 ## Conclusion
 I present (in both the extensive report and the presentation), the results of the study, as well as a comparison with Wallsten's results. 
 
-**Acknowledgment**
+## Acknowledgment
 
 **This was my capstone project done in Spring 2017, under supervision of Dr. Tamer Abdou**
