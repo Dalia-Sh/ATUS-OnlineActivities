@@ -1,4 +1,4 @@
-# ATUS-OnlineActivities
+# ATUS-OnlineActivities - Capstone Project 
 
 ## Overview
 
@@ -64,4 +64,4 @@ I present (in both the extensive report and the presentation), the results of th
 
 ## Acknowledgment
 
-**This was my capstone project done in Spring 2017, under supervision of Dr. Tamer Abdou**
+**I would like to thank Dr. Tamer Abdou for supervising this capstone project during the Spring 2017 term.** 
