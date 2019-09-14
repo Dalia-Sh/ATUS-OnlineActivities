@@ -57,7 +57,7 @@ I use a different approach, by introducing the CPS dataset (Current Population S
 - Output: Internet or No Internet
 
 ### Measuring crowd-out effect
-The last part is similar to Wallsten's approach. I use, however, ATUS years 2011 to 2015, to account for activities such as Facebook, Instagram, Twitter and other, as these have been reported in the questionaire starting 2011.
+The last part is similar to Wallsten's approach. I use, however, ATUS years 2011 to 2015, to account for activities such as Facebook, Instagram, Twitter and other, as these have been reported in the ATUS questionaire starting 2011.
 
 ## Conclusion
 I present (in both the extensive report and the presentation), the results of the study, as well as a comparison with Wallsten's results. 
