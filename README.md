@@ -16,7 +16,11 @@ He uses a regression equation for each activity and report the computer leisure 
 ![equation](https://github.com/Dalia-Sh/ATUS-OnlineActivities/blob/master/Other/equation.png)
 
 ### Goal
-The goal is to estimate what activities are we forgoing when we are online. By the end of the study, we would be able to measure how one minute of the internet crowds out other activities. The activities are: 
+The goal is to estimate what activities are we forgoing when we are online. By the end of the study, we would be able to measure how one minute of the internet crowds out other activities. 
+
+For example, I would be able to say that: 'For 1 minute spent online, an indivudal is foregoing 0.5 minutes of work activity and 0.5 minutes of personal care activity'.
+
+The activities are: 
 
 - Leisure (excluding computer)
 - Work activities
