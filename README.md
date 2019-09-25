@@ -18,7 +18,7 @@ He uses a regression equation for each activity and report the computer leisure 
 ### Goal
 The goal is to estimate what activities are we forgoing when we are online. By the end of the study, we would be able to measure how one minute of the internet crowds out other activities. 
 
-*For example, I would be able to say that: 'For 1 minute spent online, an indivudal is foregoing X minutes of work activity and Y minutes of personal care activity' (X and Y amounting to 1 minute).*
+*For example, I would be able to say: 'For 1 minute spent online, an indivudal is foregoing X minutes of work activity and Y minutes of personal care activity' (X and Y amounting to 1 minute).*
 
 The activities are: 
 
