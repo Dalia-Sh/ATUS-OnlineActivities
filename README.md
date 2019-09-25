@@ -11,7 +11,7 @@ The internet's value cannot be measured monetarily, and hence, measuring its con
 
 Wallsten evaluates the opportunity cost of online leisure activity by measuring the time forgone on other activities. This is called the 'crowd-out effect'.
 
-He uses a regression equation for each activity and report the computer leisure time coefficient as a measure of crowd out effect (correlation between that activity and online leisure activity).
+He uses a regression equation for each activity and report the computer leisure time coefficient as a measure of crowd out effect.
 
 ![equation](https://github.com/Dalia-Sh/ATUS-OnlineActivities/blob/master/Other/equation.png)
 
